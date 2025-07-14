@@ -8,7 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h3>list1</h3>
+<h3>list</h3>
 <table width="700" border="1">
 	<tr>
 		<td>번호</td>
